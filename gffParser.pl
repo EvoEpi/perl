@@ -3,7 +3,6 @@
 use strict;
 use warnings;
 use Getopt::Long;
-use Sort::Naturally;
 
 my $id;
 my $trim_id;
